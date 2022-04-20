@@ -1,0 +1,8 @@
+====== Cluster 0
+--- Centers:
+1	4.0
+--- Assigned points:
+====== Cluster 1
+--- Centers:
+1	1.0
+--- Assigned points:
